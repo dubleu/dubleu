@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dubleu or Fabio
+- 👀 I’m interested in CS, languages, philosophy
+- 🌱 I’m currently learning Java, Golang, TS as programming languages; microservices as SW engineering
